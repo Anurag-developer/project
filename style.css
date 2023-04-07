@@ -123,13 +123,13 @@
     63% {
       left: -3240px;
     }
-    66% {
+    69% {
       left: -4320px;
     }
-    79% {
+    76% {
       left: -4320px;
     }
-    82% {
+    83% {
       left: -5400px;
     }
     100% {
@@ -143,9 +143,9 @@
     width: 1080px;
     height: 720px;
     animation-name: slide;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
-    transition-duration: 2s;
+    animation-duration: 5s;
+    animation-iteration-count:infinite;
+    transition-duration: 1s;
   }
   
   .heading1 {
@@ -354,13 +354,13 @@
       63% {
         left: -240vw;
       }
-      66% {
+      69% {
         left: -320vw;
       }
-      79% {
+      76% {
         left: -320vw;
       }
-      82% {
+      83% {
         left: -400vw;
       }
       100% {
