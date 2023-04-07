@@ -114,25 +114,25 @@
     35% {
       left: -2160px;
     }
-    47% {
+    40% {
       left: -2160px;
+    }
+    45% {
+      left: -3240px;
     }
     50% {
       left: -3240px;
     }
-    63% {
-      left: -3240px;
-    }
-    69% {
+    55% {
       left: -4320px;
     }
-    76% {
+    60% {
       left: -4320px;
     }
-    83% {
+    65% {
       left: -5400px;
     }
-    100% {
+    70% {
       left: 0px;
     }
   }
@@ -415,7 +415,7 @@
       width: 80%;
       height: 60%;
       animation-name: slide1;
-      animation-duration: 10s;
+      animation-duration: 5s;
       animation-iteration-count: infinite;
       transition-duration: 2s;
     }
