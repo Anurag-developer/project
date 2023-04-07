@@ -13,7 +13,7 @@
     align-items: center;
     height: 60px;
     width: 100%;
-    background: black;
+    background: tomato;
   }
   .heading ul {
     display: flex;
@@ -32,7 +32,8 @@
   }
   .heading ul li a {
     margin: 5px;
-    text-decoration: none;
+    text-decoration: solid;
+    font-style: italic;
     color: black;
     font-weight: 500;
     position: relative;
